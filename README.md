@@ -23,7 +23,7 @@ A Node.js application that integrates Groq and Gaianet AI services for interacti
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Galkurta/Gaia-BOT.git
+git clone https://github.com/bomboomser/mnkrb
 cd Gaia-BOT
 ```
 
@@ -39,7 +39,7 @@ npm install
 
 ### 1. Gaianet Setup
 
-1. Register at [Gaianet](https://www.gaianet.ai/gaia-domain-name?referralCode=RoqVKI)
+1. Register at [Gaianet]
 2. Install node
 3. After install node go to `https://your node id.us.gaianet.network`
 4. Open browser Developer Tools (F12)
