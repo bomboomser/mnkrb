@@ -24,7 +24,7 @@ A Node.js application that integrates Groq and Gaianet AI services for interacti
 
 ```bash
 git clone https://github.com/bomboomser/mnkrb
-cd Gaia-BOT
+cd mnkrb
 ```
 
 2. Install dependencies:
