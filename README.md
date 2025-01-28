@@ -1,4 +1,4 @@
-# GaiaBOT - AI Chat Integration
+#Pendakian
 
 A Node.js application that integrates Groq and Gaianet AI services for interactive chat conversations about Paris tourism.
 
